@@ -8,6 +8,13 @@
 - 🎓 &nbsp; Studying Biomedical Engineering and Bioinformatics at University of British Columbia.
 - 💼 &nbsp; Working as an AI & Data Engineering Intern at Telus AI Accelerator.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Data Science and Artificial Intelligence.
+  
+<h3> 🧑🏻‍💻 &nbsp;Work GitHub</h3>
+
+Most of my professional commits and active repositories are on my **Work GitHub** account:  
+👉 [github.com/YourWorkGitHubUsername](https://github.com/YourWorkGitHubUsername)
+
+This is where I contribute to internal projects, develop software for production environments, and collaborate with teams at TELUS AI Accelerator.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,8 +41,9 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center"
-<a href="https://www.linkedin.com/in/danish-hakim06/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danish-hakim06-blue?style=flat-square&logo=linkedin"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danish-hakim06/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danish%20Hakim-blue?style=flat-square&logo=linkedin">
+  </a>
 <a href="danhakim006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danhakim006@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
