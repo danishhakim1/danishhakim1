@@ -12,7 +12,7 @@
 <h3> 🧑🏻‍💻 &nbsp;Work GitHub</h3>
 
 Most of my professional commits and active repositories are on my **Work GitHub** account:  
-👉 [github.com/YourWorkGitHubUsername](https://github.com/YourWorkGitHubUsername)
+👉 [github.com/YourWorkGitHubUsername](https://github.com/danishhakimtelus)
 
 This is where I contribute to internal projects, develop software for production environments, and collaborate with teams at TELUS AI Accelerator.
 
