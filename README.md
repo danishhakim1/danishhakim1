@@ -32,18 +32,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-<br/>
-
-<a href="https://github.com/danishhakim1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danishhakim1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishhakim1&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center"
-<a href="https://www.linkedin.com/in/danish-hakim06/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danishhakim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/danish-hakim06/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danish-hakim06-blue?style=flat-square&logo=linkedin"></a>
 <a href="danhakim006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danhakim006@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
